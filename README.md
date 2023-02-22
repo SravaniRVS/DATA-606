@@ -1,3 +1,3 @@
 # TELCO CUSTOMER CHURN PREDICTION
-![image](https://user-images.githubusercontent.com/100098006/220717424-f7caf1a0-9e19-421d-a428-4b34af6cf06b.png)
+![image](Images/200255925-e806c682-6d06-4cbb-ac65-a14604dc74e9.png)
 
