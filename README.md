@@ -1,4 +1,5 @@
-# **$$\color{red}{Telco\ Customer\ Churn\ Prediction}$$**
+# <p align="center">Telco Customer Churn Prediction</p>
+
 
 <p align="justify"> 
 The aim of our telco customer churn prediction project using machine learning is to develop a model that can accurately predict which customers are likely to churn, allowing the telco to take proactive measures to retain those customers.
